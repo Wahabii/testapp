@@ -1,0 +1,8 @@
+{
+
+"jwtPrivateKey":"playground_jwtPrivateKey",
+ "db":"mongodb://localhost/playground"
+ 
+
+
+}
